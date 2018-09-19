@@ -9,7 +9,7 @@ extern igvInterfaz interfaz; // los callbacks deben ser estaticos y se requiere 
 
 igvInterfaz::igvInterfaz() {
 	ejes = true;
-	num_triangulos = 99;
+	num_triangulos = 100
 }
 
 igvInterfaz::~igvInterfaz () {}
